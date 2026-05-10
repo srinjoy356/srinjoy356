@@ -1,7 +1,15 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hello+World%2C+I'm+Srinjoy+Roy+%F0%9F%91%8B;Data+Scientist+%7C+ML+Engineer;Turning+%E2%88%91+into+Solutions;Learning+%CE%B8+%E2%86%92+Gradient+Descent+%E2%86%92+Repeat)](https://git.io/typing-svg)
+<!-- Animated Header Wave -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Srinjoy%20Roy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%7C%20ML%20Engineer%20%7C%20Data%20Scientist&descAlignY=55&descSize=18)
+
+<!-- Animated Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Hello+World%2C+I'm+Srinjoy+Roy+%F0%9F%91%8B;Turning+%E2%88%91+into+Solutions+%F0%9F%A7%AE;Learning+%CE%B8+%E2%86%92+Gradient+Descent+%E2%86%92+Repeat+%F0%9F%94%81;GenAI+%7C+Computer+Vision+%7C+NLP+%7C+MLOps+%F0%9F%9A%80;%22loss+%E2%86%92+0%22+only+when+you+stop+following+the+textbook)](https://git.io/typing-svg)
+
+<!-- Badge row -->
+![Profile Views](https://komarev.com/ghpvc/?username=srinjoy356&style=for-the-badge&color=blueviolet)
+[![GitHub followers](https://img.shields.io/github/followers/srinjoy356?style=for-the-badge&color=blue&logo=github)](https://github.com/srinjoy356)
+![Focus](https://img.shields.io/badge/Focus-Machine%20Learning-00D9FF?style=for-the-badge&logo=pytorch&logoColor=white)
 
 </div>
 
@@ -42,6 +50,13 @@ $$\hat{y} = \sigma\left(\sum_{i=1}^{n} w_i x_i + b\right)$$
 
 > Where $x_i$ = experience, $w_i$ = curiosity, $b$ = stubbornness to give up, $\sigma$ = the real world
 
+<!-- Animated contribution snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 - 🔭 **Currently:** Training models, debugging loss curves, building projects
 - 📊 **Domain:** ML · GenAI · Computer Vision · NLP · MLOps · Statistics
 - 🌐 **Portfolio:** [srinjoy-roy.vercel.app](https://portfolio-site-git-master-srinjoy356s-projects.vercel.app/)
@@ -53,6 +68,8 @@ $$\hat{y} = \sigma\left(\sum_{i=1}^{n} w_i x_i + b\right)$$
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -76,17 +93,25 @@ $$\hat{y} = \sigma\left(\sum_{i=1}^{n} w_i x_i + b\right)$$
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+</div>
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- ![Srinjoy's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=srinjoy356&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true) -->
+<img src="https://github-readme-stats-fast.vercel.app/api?username=srinjoy356&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="180"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=srinjoy356&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" height="180"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=srinjoy356&theme=tokyonight&hide_border=false)
+<br/>
 
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=srinjoy356&theme=tokyonight&hide_border=false&layout=compact&langs_count=8)
+![GitHub Streak](https://streak-stats.demolab.com?user=srinjoy356&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D)
+
+<br/>
+
+<!-- Animated activity graph -->
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=srinjoy356&theme=tokyo-night&hide_border=true&area=true&area_color=00D9FF&line=00D9FF&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -118,11 +143,18 @@ Epoch ∞  : Still running...                  Loss: Converging → 0
 
 ---
 
-### ✍️ A Dev Quote for the Road
+### ✍️ Random Dev Quote
+
+<div align="center">
 
 [![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
+</div>
+
 ---
+
+<!-- Animated Footer Wave -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
 
 <div align="center">
 
