@@ -82,11 +82,11 @@ $$\hat{y} = \sigma\left(\sum_{i=1}^{n} w_i x_i + b\right)$$
 
 <div align="center">
 
-![Srinjoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srinjoy356&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![Srinjoy's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=srinjoy356&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=srinjoy356&theme=tokyonight&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=srinjoy356&theme=tokyonight&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srinjoy356&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=srinjoy356&theme=tokyonight&hide_border=false&layout=compact&langs_count=8)
 
 </div>
 
