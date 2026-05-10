@@ -43,7 +43,8 @@ $$\hat{y} = \sigma\left(\sum_{i=1}^{n} w_i x_i + b\right)$$
 > Where $x_i$ = experience, $w_i$ = curiosity, $b$ = stubbornness to give up, $\sigma$ = the real world
 
 - 🔭 **Currently:** Training models, debugging loss curves, building projects
-- 📊 **Domain:** Data Science × Machine Learning × Advanced Statistics
+- 📊 **Domain:** ML · GenAI · Computer Vision · NLP · MLOps · Statistics
+- 🌐 **Portfolio:** [srinjoy-roy.vercel.app](https://portfolio-site-git-master-srinjoy356s-projects.vercel.app/)
 - 🌱 **Gradient Descent:** Always descending toward deeper understanding
 - 💡 **Philosophy:** `loss → 0` only when you stop following the textbook
 - 🤝 **Open to:** Collaborations in Python, ML, or any software project worth building
@@ -108,6 +109,7 @@ Epoch ∞  : Still running...                  Loss: Converging → 0
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-071013?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-site-git-master-srinjoy356s-projects.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinjoy-roy-22ab76287/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srinjoy.roy.work365@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srinjoy356)
