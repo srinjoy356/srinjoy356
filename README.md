@@ -87,6 +87,21 @@ $$\hat{y} = \sigma\left(\sum_{i=1}^{n} w_i x_i + b\right)$$
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C9BE8?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+### MLOps & Experiment Tracking
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights%20&%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### Deployment & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -97,20 +112,14 @@ $$\hat{y} = \sigma\left(\sum_{i=1}^{n} w_i x_i + b\right)$$
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats-fast.vercel.app/api?username=srinjoy356&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="180"/>
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=srinjoy356&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" height="180"/>
-
-<br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=srinjoy356&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D)
 
 <br/>
 
-<!-- Animated activity graph -->
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=srinjoy356&theme=tokyo-night&hide_border=true&area=true&area_color=00D9FF&line=00D9FF&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
@@ -157,8 +166,6 @@ Epoch ∞  : Still running...                  Loss: Converging → 0
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
 
 <div align="center">
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=srinjoy356&icon=6&color=6)](https://visitcount.itsvg.in)
 
 *"All models are wrong, but some are useful." — George Box*
 
