@@ -59,7 +59,7 @@ $$\hat{y} = \sigma\left(\sum_{i=1}^{n} w_i x_i + b\right)$$
 
 - 🔭 **Currently:** Training models, debugging loss curves, building projects
 - 📊 **Domain:** ML · GenAI · Computer Vision · NLP · MLOps · Statistics
-- 🌐 **Portfolio:** [srinjoy-roy.vercel.app]([https://srinjoyroy356.qd.je/])
+- 🌐 **Portfolio:** [srinjoyroy356.qd.je](https://srinjoyroy356.qd.je/)
 - 🌱 **Gradient Descent:** Always descending toward deeper understanding
 - 💡 **Philosophy:** `loss → 0` only when you stop following the textbook
 - 🤝 **Open to:** Collaborations in Python, ML, or any software project worth building
